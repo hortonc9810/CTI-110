@@ -1,1 +1,4 @@
-All of my Python files for CTI-110 Introduction to Web Programming
+#CTI 110 Repository
+Created for P1LAB1
+Horton
+4/2/2025
