@@ -1,4 +1,4 @@
-#CTI 110 Repository \n
-Created for P1LAB1 \n
-Horton \n
+#CTI 110 Repository 
+Created for P1LAB1 
+Horton
 4/2/2025
